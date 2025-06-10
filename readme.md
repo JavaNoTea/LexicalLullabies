@@ -7,7 +7,9 @@ Created as a final project for CAP6640 at the University of Central Florida
 
 ## 🧠 Overview
 
-![Lexical Lullabies Flowchart](media/FlowChart.png)
+<p align="center">
+  <img src="media/FlowChart.png" alt="Lexical Lullabies Flowchart" height="500">
+</p>
 
 Lexical Lullabies explores the intersection of natural language and symbolic music generation using decoder-only large language models. Built on top of LLaMA 3.2 and trained on the MIDICaps dataset, this project demonstrates a novel, modular approach to translating textual descriptions into structured MIDI sequences.
 
